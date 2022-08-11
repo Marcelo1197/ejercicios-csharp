@@ -1,0 +1,15 @@
+C:\Proyectos\practica\csharp\EjerciciosCsharp\EjerciciosCsharp\obj\Debug\net6.0\EjerciciosCsharp.csproj.AssemblyReference.cache
+C:\Proyectos\practica\csharp\EjerciciosCsharp\EjerciciosCsharp\obj\Debug\net6.0\EjerciciosCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\practica\csharp\EjerciciosCsharp\EjerciciosCsharp\obj\Debug\net6.0\EjerciciosCsharp.AssemblyInfoInputs.cache
+C:\Proyectos\practica\csharp\EjerciciosCsharp\EjerciciosCsharp\obj\Debug\net6.0\EjerciciosCsharp.AssemblyInfo.cs
+C:\Proyectos\practica\csharp\EjerciciosCsharp\EjerciciosCsharp\obj\Debug\net6.0\EjerciciosCsharp.csproj.CoreCompileInputs.cache
+C:\Proyectos\practica\csharp\EjerciciosCsharp\EjerciciosCsharp\bin\Debug\net6.0\EjerciciosCsharp.exe
+C:\Proyectos\practica\csharp\EjerciciosCsharp\EjerciciosCsharp\bin\Debug\net6.0\EjerciciosCsharp.deps.json
+C:\Proyectos\practica\csharp\EjerciciosCsharp\EjerciciosCsharp\bin\Debug\net6.0\EjerciciosCsharp.runtimeconfig.json
+C:\Proyectos\practica\csharp\EjerciciosCsharp\EjerciciosCsharp\bin\Debug\net6.0\EjerciciosCsharp.dll
+C:\Proyectos\practica\csharp\EjerciciosCsharp\EjerciciosCsharp\bin\Debug\net6.0\EjerciciosCsharp.pdb
+C:\Proyectos\practica\csharp\EjerciciosCsharp\EjerciciosCsharp\obj\Debug\net6.0\EjerciciosCsharp.dll
+C:\Proyectos\practica\csharp\EjerciciosCsharp\EjerciciosCsharp\obj\Debug\net6.0\refint\EjerciciosCsharp.dll
+C:\Proyectos\practica\csharp\EjerciciosCsharp\EjerciciosCsharp\obj\Debug\net6.0\EjerciciosCsharp.pdb
+C:\Proyectos\practica\csharp\EjerciciosCsharp\EjerciciosCsharp\obj\Debug\net6.0\EjerciciosCsharp.genruntimeconfig.cache
+C:\Proyectos\practica\csharp\EjerciciosCsharp\EjerciciosCsharp\obj\Debug\net6.0\ref\EjerciciosCsharp.dll
