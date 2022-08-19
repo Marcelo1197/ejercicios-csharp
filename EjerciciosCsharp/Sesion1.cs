@@ -8,7 +8,7 @@ namespace EjerciciosCsharp
 {
     internal class Sesion1
     {
-        private static void exMain(string[] args)
+        private static void Main1(string[] args)
         {
             //Ejercicio 1 - Lee datos de una persona y devuelve en consola
             Console.WriteLine("Escribe tu nombre:");
