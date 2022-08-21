@@ -8,7 +8,7 @@ namespace EjerciciosCsharp
 {
     internal class Sesion3
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             Cliente cliente = new Cliente(nombre: "Marcelo", email: "marcelo@gmail.com", telefono: 38383829, direccion: "Cordova 222", esNuevo: true);
             cliente.mostrarDatos();
